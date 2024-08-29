@@ -1,2 +1,2 @@
 # manwhas-traducidos
-raducciones de manwhas en español.
+Traducciones de manwhas en español.
