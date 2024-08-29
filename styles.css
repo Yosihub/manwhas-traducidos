@@ -21,3 +21,10 @@ header nav ul li a {
     color: white;
     text-decoration: none;
 }
+ul {
+    padding-left: 20px;
+}
+li {
+    margin-bottom: 10px;
+}
+
