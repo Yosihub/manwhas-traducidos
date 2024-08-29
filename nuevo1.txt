@@ -26,3 +26,11 @@
     </footer>
 </body>
 </html>
+<main>
+    <h2>Últimas Traducciones</h2>
+    <ul>
+        <li><a href="#">Manwha 1</a> - Capítulo 1</li>
+        <li><a href="#">Manwha 2</a> - Capítulo 2</li>
+        <li><a href="#">Manwha 3</a> - Capítulo 3</li>
+    </ul>
+</main>
